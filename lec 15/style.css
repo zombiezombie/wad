@@ -25,3 +25,10 @@
 li {
     cursor: pointer;
 }
+.del {
+    background: red;
+    color: white;
+    padding: 2px;
+    border-radius: 8px;
+    border: 5px;
+}
